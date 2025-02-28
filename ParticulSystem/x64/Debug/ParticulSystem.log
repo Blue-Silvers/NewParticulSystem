@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParticulSystem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ParticleSystem.cpp
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(10,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(10,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(11,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(11,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(43,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(69,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(77,25): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(77,25): warning C4244:         with
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(77,25): warning C4244:         [
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(77,25): warning C4244:             T=unsigned int
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(77,25): warning C4244:         ]
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(83,25): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(83,25): warning C4244:         with
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(83,25): warning C4244:         [
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(83,25): warning C4244:             T=unsigned int
+C:\Users\fury8\Downloads\ParticleSystem\ParticulSystem\ParticleSystem.cpp(83,25): warning C4244:         ]
+  ParticulSystem.vcxproj -> C:\Users\fury8\Downloads\ParticleSystem\x64\Debug\ParticleSystem.exe

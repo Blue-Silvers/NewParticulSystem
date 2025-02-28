@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\ParticleSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\ParticleSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\Solver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\Solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{480FA642-0DFA-4553-B89F-3D5510B8EF34}|ParticulSystem\\ParticulSystem.vcxproj|solutionrelative:ParticulSystem\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mouse.hpp",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp",
+              "RelativeDocumentMoniker": "Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp",
+              "RelativeToolTip": "Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Mouse.hpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T22:21:47.7Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Keyboard.hpp",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp",
+              "RelativeDocumentMoniker": "Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp",
+              "RelativeToolTip": "Dependencies\\SFML-3.0.0\\include\\SFML\\Window\\Keyboard.hpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T22:19:21.325Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticleSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\ParticleSystem.cpp",
+              "RelativeDocumentMoniker": "ParticulSystem\\ParticleSystem.cpp",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\ParticleSystem.cpp*",
+              "RelativeToolTip": "ParticulSystem\\ParticleSystem.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T18:42:02.22Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solver.h",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.h",
+              "RelativeDocumentMoniker": "ParticulSystem\\Solver.h",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.h",
+              "RelativeToolTip": "ParticulSystem\\Solver.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T21:43:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solver.cpp",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.cpp",
+              "RelativeDocumentMoniker": "ParticulSystem\\Solver.cpp",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Solver.cpp",
+              "RelativeToolTip": "ParticulSystem\\Solver.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T22:45:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Particle.h",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.h",
+              "RelativeDocumentMoniker": "ParticulSystem\\Particle.h",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.h",
+              "RelativeToolTip": "ParticulSystem\\Particle.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T22:25:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Particle.cpp",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.cpp",
+              "RelativeDocumentMoniker": "ParticulSystem\\Particle.cpp",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Particle.cpp",
+              "RelativeToolTip": "ParticulSystem\\Particle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T22:32:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Renderer.h",
+              "RelativeDocumentMoniker": "ParticulSystem\\Renderer.h",
+              "ToolTip": "C:\\Users\\fury8\\Downloads\\ParticleSystem\\ParticulSystem\\Renderer.h",
+              "RelativeToolTip": "ParticulSystem\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T22:24:01.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
