@@ -142,18 +142,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AsyncRenderer.cpp" />
     <ClCompile Include="ballsPool.cpp" />
     <ClCompile Include="Fractal.cpp" />
+    <ClCompile Include="NumberGenerator.cpp" />
+    <ClCompile Include="Palette.cpp" />
     <ClCompile Include="Particle.cpp" />
     <ClCompile Include="ParticleSystem.cpp" />
     <ClCompile Include="Solver.cpp" />
+    <ClCompile Include="ThreadPool.cpp" />
+    <ClCompile Include="VertexArrayGrid.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AsyncRenderer.h" />
     <ClInclude Include="ballsPool.h" />
     <ClInclude Include="Fractal.h" />
+    <ClInclude Include="NumberGenerator.h" />
+    <ClInclude Include="Palette.h" />
     <ClInclude Include="Particle.h" />
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="Solver.h" />
+    <ClInclude Include="ThreadPool.h" />
+    <ClInclude Include="VertexArrayGrid.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
