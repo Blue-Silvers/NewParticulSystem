@@ -142,11 +142,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ballsPool.cpp" />
+    <ClCompile Include="Fractal.cpp" />
     <ClCompile Include="Particle.cpp" />
     <ClCompile Include="ParticleSystem.cpp" />
     <ClCompile Include="Solver.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ballsPool.h" />
+    <ClInclude Include="Fractal.h" />
     <ClInclude Include="Particle.h" />
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="Solver.h" />
